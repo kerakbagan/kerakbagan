@@ -17,7 +17,6 @@ http://83.142.30.171:8080/dash.mpd?channel=tv1&username=perfecttv
 #KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://83.142.30.171:8080/dash.mpd?channel=tv2&username=perfecttv
-
 #EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://perfecttv.net/logo/tv3.png",103 TV3 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -26,6 +25,8 @@ http://83.142.30.171:8080/dash.mpd?channel=tv2&username=perfecttv
 #https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
 #https://linearjitp.perfecttv.net/tv3.mpd
 https://get.perfecttv.net/get_tonton_live.m3u8?episode_id=6420323&username=Perfecttv|user-agent=Mozilla/5.0 (Linux; Android 10; Lenovo TB-8705X Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Safari/537.36 TONTON/6.0.35
+
+
 #EXTINF:-1 tvg-id="ntv7" tvg-logo="https://perfecttv.net/logo/ntv7.png" group-logo="" group-title="MALAYSIA",104 TV7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
